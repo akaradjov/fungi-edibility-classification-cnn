@@ -3,7 +3,7 @@
 
 ## Classifying Fungi Based on Edibility
 
-Image link
+![orange-mushroom](data/orange-mushroom.jpg)
 
 ### Overview
 National Geographic wishes to foresee the development of a mobile application or web platform that allows users to identify whether a mushroom they have found is poisonous or safe to consume. This could be particularly useful for mushroom foragers, hikers, or individuals who are interested in wild mushroom hunting. The application will be an intuitive user interface where users can take a photo of the mushroom or upload an existing image.
