@@ -134,37 +134,50 @@ The 11 mushroom Genus we are going to be focusing on for this mushroom image cla
 
 
 #### Exidia - EDIBLE
-	The Exidia Genus of mushrooms do not have any toxic or poisonous species, we will be classifying them as edible, although it is duly noted that they do not have any culinary value, as they are not tasty due to their spongey gelatine structure.
+	The Exidia Genus of mushrooms do not have any toxic or poisonous species, we will be classifying them as edible, 
+ 	although it is duly noted that they do not have any culinary value, as they are not tasty due to their spongey gelatine structure.
 
 #### Inocybe - CONTAINS POISONOUS SPECIES
-	The Inocybe Genus of mushrooms have multiple toxic species that cause a wide range of nasty side effects including gastrointestinal distress, hallucinations, muscle weakness, and in severe cases, organ failure, none will cause instant death but ingestion will still cause harm. Therefore we will be classifying these as poisonous.
+	The Inocybe Genus of mushrooms have multiple toxic species that cause a wide range of nasty side effects including gastrointestinal distress, hallucinations, muscle weakness, and in severe cases, organ failure, 
+ 	none will cause instant death but ingestion will still cause harm. 
+  	Therefore we will be classifying these as poisonous.
 
 #### Agaricus - CONTAINS POISONOUS SPECIES
-	There are many very common Agaricus species that are edible such as the portobello mushroom, but there are also species of the Agaricus that are highly poisonous, that being the Agaricus Xanthodermus, which is most commonly found outside, because this app is mainly going to be sued for people hiking outdoors, we are going to classify the Agaricus Genus as poisonous considering the Agaricus Xanthodermus is more commonly found than the edible species outside.
+	There are many very common Agaricus species that are edible such as the portobello mushroom, but there are also species of the Agaricus that are highly poisonous, 
+ 	that being the Agaricus Xanthodermus, which is most commonly found outside, because this app is mainly going to be sued for people hiking outdoors, 
+  	we are going to classify the Agaricus Genus as poisonous considering the Agaricus Xanthodermus is more commonly found than the edible species outside.
 
 #### Amanita - CONTAINS POISONOUS SPECIES
-	Most of the Amanita species are highly, highly toxic, an infamous mushroom found under the Amanita Genus, is the Amanita Phalloides or commonly called Death Cap, is quite literally the most poisonous mushroom in the world. We will definitely be classifying the Amanita Genus as poisonous.
+	Most of the Amanita species are highly, highly toxic, an infamous mushroom found under the Amanita Genus, is the Amanita Phalloides or commonly called Death Cap, is quite literally the most poisonous mushroom in the world. 
+ 	We will definitely be classifying the Amanita Genus as poisonous.
 
 #### Boletus - CONTAINS POISONOUS SPECIES
-	Many edible species but does contain toxic and inedible species, contains the Devil's Bolete, a highly highly toxic mushroom. While the Boletus Erythropus is extremely bitter and has no culinary value. So Boletus is classified as poisonous.
+	Many edible species but does contain toxic and inedible species, contains the Devil's Bolete, a highly highly toxic mushroom. 
+ 	While the Boletus Erythropus is extremely bitter and has no culinary value. 
+  	So Boletus is classified as poisonous.
 
 #### Cortinarius - CONTAINS POISONOUS SPECIES
-	Several of the Cortinarius Genus species are known to be poisonous, while many of the species are harmless, some are extremely toxic, and cause nast side effects. Therefore, Cortinarius is classified as poisonous. 
+	Several of the Cortinarius Genus species are known to be poisonous, while many of the species are harmless, some are extremely toxic, and cause nast side effects. 
+ 	Therefore, Cortinarius is classified as poisonous. 
 
 #### Entoloma - CONTAINS POISONOUS SPECIES
-	There are indeed some species within the Entoloma Genus that are known to be extremely poisonous, severe side effects included with the toxins when ingesting. Only a few non toxic species. Will be classifying Entoloma as poisonous.
+	There are indeed some species within the Entoloma Genus that are known to be extremely poisonous, severe side effects included with the toxins when ingesting. 
+ 	Only a few non toxic species. Will be classifying Entoloma as poisonous.
 
 #### Hygrocybe - EDIBLE
 	There are no known species within the Hygrocybe Genus to be poisonous, they are also known as waxcaps. There are no significant toxins if you were to consume. Hygrocybe will be classified as edible.
 
 #### Lactarius - CONTAINS POISONOUS SPECIES
-	Some species within the Lactarius Genus that are known to be extremely poisonous, severe side effects included with the toxins when ingesting. Only a few non toxic species. Will be classifying Lactarius as poisonous.
+	Some species within the Lactarius Genus that are known to be extremely poisonous, severe side effects included with the toxins when ingesting. 
+ 	Only a few non toxic species. Will be classifying Lactarius as poisonous.
 
 #### Russula - CONTAINS POISONOUS SPECIES
-	The Russula Genus contains some poisonous species that cause severe side effects and problems. Therefore, I will be classifying the Russula Genus as poisonous.
+	The Russula Genus contains some poisonous species that cause severe side effects and problems. 
+ 	Therefore, I will be classifying the Russula Genus as poisonous.
 
 #### Suillus - CONTAINS POISONOUS SPECIES
-	No species within the Suillus Genus contains any toxins or is poisonous, not all of the species have culinary value but are considered edible. Will be classifying the Suillus Genus as edible.
+	No species within the Suillus Genus contains any toxins or is poisonous, not all of the species have culinary value but are considered edible. 
+ 	Will be classifying the Suillus Genus as edible.
 
 
 ### Data
@@ -209,11 +222,11 @@ And the third most significant region of a mushroom, at least with my model, was
 
 ### Future Reccomendations
 Inorder for National Geographic to create a safe and trustworthy interactive app for individuals who are not expert mycologists. I would like to recommend...
- One: Having an extremely large and diverse set of  images containing the mushroom shape, the top of the mushroom from a bird's eye view, and all angles of the mushroom cap.
+**One:** Having an extremely large and diverse set of  images containing the mushroom shape, the top of the mushroom from a bird's eye view, and all angles of the mushroom cap.
 
-Two: if the data team aren't experts I want to recommend predicting edibility based on the mushroom's genus, as mushrooms can look extremely alike, so classifying by genus ensures safety. Especially when working with a smaller amount of images. So depending on how serious the team is when collecting images this is an important thing to consider.
+**Two:** if the data team aren't experts I want to recommend predicting edibility based on the mushroom's genus, as mushrooms can look extremely alike, so classifying by genus ensures safety. Especially when working with a smaller amount of images. So depending on how serious the team is when collecting images this is an important thing to consider.
 
-Three: Do not recommend consuming any mushrooms in the wild as they are extremely hard to classify and people should only get information from experts. This disclaimer can potentially save lives as nothing is ever 100% accurate.
+**Three:** Do not recommend consuming any mushrooms in the wild as they are extremely hard to classify and people should only get information from experts. This disclaimer can potentially save lives as nothing is ever 100% accurate.
 
 
 ### Next Steps Moving Forward With the Project
