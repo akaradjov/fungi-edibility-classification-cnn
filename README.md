@@ -22,7 +22,7 @@ Our goal is to be able to build an interactive app for National Geographic that 
 **For this presentation the mushrooms were grouped by Genus:**
 A Genus is a category that contains groups of similar species and is the rank above the category species, which is just an individual mushroom, in the classification ranking system for living organisms, which is shown in the diagram here. 
 
-![orange-mushroom](data/orange-mushroom.jpg)
+![ClassOfLivingOrganisms](data/ClassOfLivingOrganisms.jpg)
 
 They were grouped this way because the images used were only sufficient enough to be able to classify a Genus of mushroom not all of the individual Species within the Genus rank, if a genus contains a toxic species it is classified as ‘containing poisonous species’. Only the Genus with no poisonous species are classified as ‘edible’.
 
