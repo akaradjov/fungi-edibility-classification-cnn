@@ -31,6 +31,7 @@ They were grouped this way because the images used were only sufficient enough t
 ### Research on Subject
 ##### Classification System for Living Organisms
 
+![ClassOfLivingOrganisms](data/ClassOfLivingOrganisms.jpg)
 
 There are three Domains, Archaea, Bacteria, and Eukarya.
 
