@@ -5,21 +5,26 @@
 
 ![orange-mushroom](data/orange-mushroom.jpg)
 
+
 ### Overview
 National Geographic wishes to foresee the development of a mobile application or web platform that allows users to identify whether a mushroom they have found is poisonous or safe to consume. This could be particularly useful for mushroom foragers, hikers, or individuals who are interested in wild mushroom hunting. The application will be an intuitive user interface where users can take a photo of the mushroom or upload an existing image.
 
 This type of application would also provide valuable assistance to individuals who are not expert mycologists but still wish to engage in mushroom foraging or learn more about the mushrooms they encounter in the wild. It could help prevent accidental ingestion of toxic mushrooms, reducing the risk of poisoning and potentially saving lives.
 
-Goals in Project
+
+
+### Goals in Project
 Our goal is to be able to build an interactive app for National Geographic that can classify an image of a mushroom that is commonly found on the west coast,  as either poisonous or edible for individuals who are not expert mycologists for educational purposes.
 
-With the research that has been done I was able to identify which features of a mushroom will be most important when collecting data, and how we should group mushrooms together when classifying them. 
+	With the research that has been done I was able to identify which features of a mushroom will be most important when collecting data, 
+	and how we should group mushrooms together when classifying them. 
 
-For this presentation the mushrooms were grouped by Genus:
+**For this presentation the mushrooms were grouped by Genus:**
 A Genus is a category that contains groups of similar species and is the rank above the category species, which is just an individual mushroom, in the classification ranking system for living organisms, which is shown in the diagram here. 
 
-They were grouped this way because the images used were only sufficient enough to be able to classify a Genus of mushroom not all of the individual Species within the Genus rank, if a genus contains a toxic species it is classified as ‘containing poisonous species’. Only the Genus with no poisonous species are classified as ‘edible’.
+![orange-mushroom](data/orange-mushroom.jpg)
 
+They were grouped this way because the images used were only sufficient enough to be able to classify a Genus of mushroom not all of the individual Species within the Genus rank, if a genus contains a toxic species it is classified as ‘containing poisonous species’. Only the Genus with no poisonous species are classified as ‘edible’.
 
 
 
@@ -50,14 +55,11 @@ Glomeromycota,
 Ascomycota, and 
 Basidiomycota 
 
-
 The 2 Phyla we will be focusing our research further on are the Ascomycota, and Basidiomycota Phylum (plural for Phyla) 
 
 Ascomycota, and Basidiomycota actually compose the only two Phyla in Dikarya the Sub-Kingdom of Fungi Kingdom, which is a Sub-Kingdom for mushroom-like species.
-	
 Ascomycota includes a diverse range of species, such as yeasts, molds, truffles, and morels. 
 Basidiomycota includes mushrooms, toadstools, puffballs, and bracket fungi. 
-
 
 What is the difference between these Phyla?
 
@@ -65,12 +67,8 @@ What is the difference between these Phyla?
 
 The Basidiomycetes Pyhla produce sexual spores called basidiospores. They play significant roles as decomposers, mycorrhizal symbionts, and plant pathogens. 
 
-
-
-
 While the Ascomycetes Phyla  produce spores within specialized structures called asci. 
 They have a wide array of ecological roles, including decomposition, plant symbiosis, and pathogens of plants and animals. Some well-known examples include Penicillium, Saccharomyces (brewer's yeast), and morel mushrooms.
-
 
 
 #### Phylum Ascomycota
@@ -79,7 +77,6 @@ The Phylum Ascomycota contains three Subdivisions:
 	Taphrinomycotina
 	Saccharomycotina
 	Pezizomycotina
-
 
 #### Phylum Basidiomycota
 The Phylum Basidiomycota contains three Subdivisions:
@@ -100,9 +97,7 @@ Furthermore, the Class Agaricomycetes under the Sub-Division Agaricomycotina:
 
 	Includes 17 Orders, 100 Families, 1147 Genera, and 20951 Species.
 
-
 On another note, we have finally reached a point on the Living Organisms Classification System where we will only be including mushrooms, and have excluded any fungi that is not a typical mushroom.
-
 
 An extensive amount of research has been conducted to determine who general we can be when classifying our mushroom image. 
 	I.e – Can we label mushrooms being poisonous or edible just based on their Family?
@@ -198,6 +193,7 @@ The data set structure was created by me using the images from kaggle with a fun
 #### Final Model Testing Data
 ![unseen](data/unseen.png)
 
+**Third** step was creating visuals that can provide us insight on how we should be moving forward. I thought that visualizing the different image activations of the model would provide vauluable insight on which features of the mushroom were vauluable when the model was going through its classification process
 
 ### Visualizing Activations
 To better understand how we can build a model that will be able to correctly classify a mushroom, I created visuals for the different activations of a model to determine its class.
