@@ -194,7 +194,7 @@ The data set structure was created by me using the images from kaggle with a fun
 #### Final Model Testing Data
 ![unseen](data/unseen.png)
 
-**Third** step was creating visuals that can provide us insight on how we should be moving forward. I thought that visualizing the different image activations of the model would provide vauluable insight on which features of the mushroom were vauluable when the model was going through its classification process
+**Third** step was creating visuals that can provide us insight on how we should be moving forward. I thought that visualizing the different image activations of the model would provide valuable insight on which features of the mushroom were vauluable when the model was going through its classification process
 
 ### Visualizing Activations
 To better understand how we can build a model that will be able to correctly classify a mushroom, I created visuals for the different activations of a model to determine its class.
