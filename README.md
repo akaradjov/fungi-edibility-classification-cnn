@@ -180,9 +180,9 @@ Things will start to get quite complex if we continue going down the Living Orga
 Agaricomycotina contains three Classes:
 
 Tremellomycetes,
-Dacrymycetes, and 
+Dacrymycetes,  
 Agaricomycetes.
-<p/>
+</p>
 
 <br>
 
@@ -199,15 +199,15 @@ On another note, we have finally reached a point on the Living Organisms Classif
 
 An extensive amount of research has been conducted to determine who general we can be when classifying our mushroom image. 
 	I.e – Can we label mushrooms being poisonous or edible just based on their Family?
+The answer to that is NO. 	
 
-		The answer to that is NO. 	
-
+<br>
 <br>
 
 We are still in too broad of a category to be able to classify that category as edible or poisonous.
+Therefore, we are going to travel down the Living Organisms Classification System latter to the Genus rank.
 
-	Therefore, we are going to travel down the Living Organisms Classification System latter to the Genus rank.
-
+<br>
 <br>
 
 The Genus rank is in between the Family and Species ranks.
@@ -246,6 +246,8 @@ The 11 mushroom Genus we are going to be focusing on for this mushroom image cla
 
 <br>
 <br>
+<br>
+
 
 #### Exidia - EDIBLE
 The Exidia Genus of mushrooms do not have any toxic or poisonous species, we will be classifying them as edible, 
@@ -326,38 +328,49 @@ Will be classifying the Suillus Genus as edible.
 <br>
 <br>
 
+
 ## Building The CNN Model
 
 <br>
 
 **First** step was to prepare the data set which was done by feature engineering with a for loop function, to label all the mushroom Genus. We started off by understanding the data which our research presented above.
+
 <br>
+
 I was able to notice that the images were only sufficient enough to classify per Genus not per species, and would have needed a lot more images. The data set was created with a loading image function, and my preprocess function, so that all images were the same shape, and size.
 
 <br>
 <br>
 
 **Second** step was modelling. Because we are trying to come up with the most accurate prediction possible of whether a mushroom is poisonous or edible, and the correct genus of mushroom, I decided to focus on the accuracy metric. 
+
 <br>
+
 After working with multiple models I was able to come down to a final model with a 99.86% final accuracy score. The accuracy score represents what percentage of our models predictions were actually correct, that being both true positives and true negatives.
 
 <br>
 <br>
 
 ### Baseline Model
-![baselinemodel](data/baselinemodel.png)
+<p align="center">
+  <img src="data/baselinemodel.png" alt="baseline" width="555">
+</p>
 
 <br>
 <br>
 
 ### Final Model Training Data
-![finalmodel](data/finalmodel.png)
+<p align="center">
+  <img src="data/finalmodel.png" alt="final" width="555">
+</p>
 
 <br>
 <br>
 
 ### Final Model Testing Data
-![unseen](data/unseen.png)
+<p align="center">
+  <img src="data/unseen.png" alt="unseen" width="555">
+</p>
 
 <br>
 <br>
@@ -387,17 +400,36 @@ The intensity of color represents the level of activation. The regions with high
 <br>
 <br>
 
-![vis1](data/vis1.png)
-These images show three different kinds of mushroom Genus. After analyzing many different activations I found that one of the most common activations for the model was the cap of the mushroom,- for example the texture of or form of the cap, and how it curves or ripples.
+<p align="center">
+These images show three different kinds of mushroom Genus that I classified, showing their top activation points. 
+	I have also included a reference to the mushroom's original image to better visualize what's going on.
 
-I have also included a reference to the mushroom's original image to better visualize what's going on.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="data/vis1.png" alt="vis1" width="555">
+</p>
+
+After analyzing many different activations I found that one of the most common activations for the model was the cap of the mushroom,- for example the texture of or form of the cap, and how it curves or ripples.
+
+<br>
+
+<p align="center">
+  <img src="data/vis2.png" alt="vis2" width="555">
+</p>
 
 
-![vis2](data/vis2.png)
 The second most common activation or region that significantly contributed to my models decision making process, was the very top of a mushroom's cap, almost like the model is trying to determine what the mushroom may look like from a bird's eye perspective. Here we can see the brighter parts focus on the top of the cap.
 
 
-![vis3](data/vis3.png)
+<br>
+
+<p align="center">
+  <img src="data/vis3.png" alt="vis3" width="555">
+</p>
+
 And the third most significant region of a mushroom, at least with my model, was the outline of the mushroom's shape; here we can see the same mushrooms but only their outlines are significant to the decision, as they are the brightest.
 
 <br>
