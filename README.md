@@ -1,4 +1,4 @@
-# Classifying Fungi Based on Edibility Using Convolutional Neural Network
+# Classifying Fungi Using Convolutional Neural Network
 
 <p align="center">
   <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
