@@ -1,5 +1,5 @@
 <p align="center">
-	# Classifying Fungi Using Convolutional Neural Network
+	Classifying Fungi Using Convolutional Neural Network
 </p>
 
 <p align="center">
