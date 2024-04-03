@@ -159,7 +159,7 @@ The Phylum Ascomycota contains three Subdivisions:
 	Pezizomycotina
 
 <br>
-<br>
+
 
 #### Phylum Basidiomycota
 The Phylum Basidiomycota contains three Subdivisions:
@@ -167,6 +167,7 @@ The Phylum Basidiomycota contains three Subdivisions:
 	Agaricomycotina
 	Pucciniomycotina
 	Ustilaginomycotina
+<br>
 <br>
 
 Things will start to get quite complex if we continue going down the Living Organisms Classification System latter, an example being, The Sub-Division Agaricomycotina 
