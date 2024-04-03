@@ -27,7 +27,11 @@ I wanted to test out developing a mobile application or web platform that would 
 <br>
 
 This could be particularly useful for mushroom foragers, hikers, or individuals who are interested in wild mushroom hunting. 
-Although to create an application accurate enough to dance with life or death is somehting that would take more than a mere few months and one persons work, no matter how much work was put in. So for future note this application is to soley be used as an educational tool for guidance on ones journey through the woods.
+Although to create an application accurate enough to dance with life or death is somehting that would take more than a mere few months and one persons work, no matter how much work was put in. 
+
+<br>
+
+So for future note this application is to soley be used as an educational tool for guidance on ones journey through the woods.
 
 <br>
 
