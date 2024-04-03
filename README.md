@@ -72,7 +72,7 @@ They were grouped this way because the images used were only sufficient enough t
 
 <br>
 
-## Research on Subject
+## Mandatory Preliminary Research on Subject
 
 #### Classification System for Living Organisms
 
@@ -80,20 +80,33 @@ They were grouped this way because the images used were only sufficient enough t
   <img src="data/OIP.jpg" alt="oip" width="555">
 </p>
 
-![OIP](data/OIP.jpg)
-
+<p align="center">
 There are three Domains, Archaea, Bacteria, and Eukarya.
+</p>
 
 The domain Eukarya is the only domain that represents multicellular, nucleated, and visible organisms. 
-Eukarya consists of organisms that have a true nucleus and structures called organelles that are surrounded by membranes. I.e - visible living organisms 
+Eukarya consists of organisms that have a true nucleus and structures called organelles that are surrounded by membranes.
+I.e - visible living organisms 
 
-Within the domain Eukarya there are four kingdoms:
-Kingdom Protista, which consists of single-celled organisms, algae being an example.
-Kingdom Fungi, consisting of mildew, molds, yeasts, and mushrooms, being organisms that absorb nutrients from other organisms.
-Kingdom Plantae, that contains all species of plants that are organisms that make their own food through the process of photosynthesis
-and Kingdom Animalia, containing over 1 million species, that consists of multicellular organisms that must consume other organisms for energy.
+
+**Within the domain Eukarya there are four kingdoms:**
+
+**Kingdom Protista:** which consists of single-celled organisms, algae being an example.
+
+<br>
+
+**Kingdom Fungi:** consisting of mildew, molds, yeasts, and mushrooms, being organisms that absorb nutrients from other organisms.
+
+<br>
+
+**Kingdom Plantae:** that contains all species of plants that are organisms that make their own food through the process of photosynthesis
+
+<br>
+
+**Kingdom Animalia:** containing over 1 million species, that consists of multicellular organisms that must consume other organisms for energy.
 
 Because this is a mushroom classification set we will be focusing on the Fungi Kingdom.
+
 
 That being said, the Fungi Kingdom, consists of 7 Phyla those being;
 
