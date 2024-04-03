@@ -24,6 +24,7 @@ Using a Convolutional Neural Network model I created an application that is able
 ## Overview and Disclaimer
 
 <br>
+
 I wanted to test out developing a mobile application or web platform that would enable a user to upload an image of a  mushroom they have found, and identify whether a it os poisonous or safe to consume. 
 
 <br>
