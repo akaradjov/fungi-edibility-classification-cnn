@@ -49,12 +49,14 @@ This type of application would also provide valuable assistance to individuals w
 
 Our goal is to be able to build an interactive app for National Geographic that can classify an image of a mushroom that is commonly found on the west coast,  as either poisonous or edible for individuals who are not expert mycologists for educational purposes.
 
-	With the research that has been done I was able to identify which features 
- 	of a mushroom will be most important when collecting data, 
-	and how we should group mushrooms together when classifying them. 
+With the research that has been done I was able to identify:
+	- which features of a mushroom will be most important 
+	- how I should group mushrooms together when classifying them
 <br>
 
 **For this presentation the mushrooms were grouped by Genus:**
+
+Preface: 
 A Genus is a category that contains groups of similar species and is the rank above the category species, which is just an individual mushroom, in the classification ranking system for living organisms, which is shown in the diagram here. 
 
 <br>
@@ -73,6 +75,10 @@ They were grouped this way because the images used were only sufficient enough t
 ## Research on Subject
 
 #### Classification System for Living Organisms
+
+<p align="center">
+  <img src="data/OIP.jpg" alt="oip" width="555">
+</p>
 
 ![OIP](data/OIP.jpg)
 
