@@ -1,17 +1,7 @@
 # Classifying Fungi Based on Edibility Using Convolutional Neural Network
 
-<div style="text-align:center;">
-    <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="300">
-</div>
-<img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
-<img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555" style="display:block; margin:auto;">
-
-<div style="display: flex; justify-content: center;">
-    <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="300">
-</div>
-
 <p align="center">
-  <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="300">
+  <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
 </p>
 
 Classifying images of different fungi specifically from the Ascomycota, and Basidiomycota Phylum under the Kingdom of Fungi, to test whether or not they are edible or poisonous.
