@@ -23,35 +23,46 @@ Using a Convolutional Neural Network model I created an application that is able
 
 <br>
 I wanted to test out developing a mobile application or web platform that would enable a user to upload an image of a  mushroom they have found, and identify whether a it os poisonous or safe to consume. 
+
 <br>
+
 This could be particularly useful for mushroom foragers, hikers, or individuals who are interested in wild mushroom hunting. 
 Although to create an application accurate enough to dance with life or death is somehting that would take more than a mere few months and one persons work, no matter how much work was put in. So for future note this application is to soley be used as an educational tool for guidance on ones journey through the woods.
+
 <br>
+
 This type of application would also provide valuable assistance to individuals who are not expert mycologists but still wish to engage in mushroom foraging or learn more about the mushrooms they encounter in the wild. It could help prevent accidental ingestion of toxic mushrooms, reducing the risk of poisoning and potentially saving lives.
 
 
 <br>
+
 ## Main Goals in Project
+
 <br>
+
 Our goal is to be able to build an interactive app for National Geographic that can classify an image of a mushroom that is commonly found on the west coast,  as either poisonous or edible for individuals who are not expert mycologists for educational purposes.
 
-	With the research that has been done I was able to identify which features of a mushroom will be most important when collecting data, 
+	With the research that has been done I was able to identify which features 
+ 	of a mushroom will be most important when collecting data, 
 	and how we should group mushrooms together when classifying them. 
 <br>
+
 **For this presentation the mushrooms were grouped by Genus:**
 A Genus is a category that contains groups of similar species and is the rank above the category species, which is just an individual mushroom, in the classification ranking system for living organisms, which is shown in the diagram here. 
+
 <br>
 
-![ClassOfLivingOrganisms](data/ClassOfLivingOrganisms.jpg)
 <p align="center">
-  <img src="data/ClassOfLivingOrganisms.jpg" alt="class" width="333">
+  <img src="data/ClassOfLivingOrganisms.jpg" alt="class" width="555">
 </p>
 
 <br>
+
 They were grouped this way because the images used were only sufficient enough to be able to classify a Genus of mushroom not all of the individual Species within the Genus rank, if a genus contains a toxic species it is classified as ‘containing poisonous species’. Only the Genus with no poisonous species are classified as ‘edible’.
 
 
 <br>
+
 ## Research on Subject
 
 #### Classification System for Living Organisms
