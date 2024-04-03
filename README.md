@@ -178,10 +178,8 @@ Things will start to get quite complex if we continue going down the Living Orga
 
 <p align="center">
 Agaricomycotina contains three Classes:
+Tremellomycetes, Dacrymycetes, Agaricomycetes.
 
-Tremellomycetes,
-Dacrymycetes,  
-Agaricomycetes.
 </p>
 
 <br>
@@ -440,7 +438,7 @@ And the third most significant region of a mushroom, at least with my model, was
 
 <br>
 
-Inorder for National Geographic to create a safe and trustworthy interactive app for individuals who are not expert mycologists. I would like to recommend...
+Inorder to create a safe and trustworthy interactive app for individuals who are not expert mycologists. I would like to further dwelve into...
 
 <br>
 
