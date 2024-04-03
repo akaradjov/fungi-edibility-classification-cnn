@@ -84,10 +84,13 @@ They were grouped this way because the images used were only sufficient enough t
 There are three Domains, Archaea, Bacteria, and Eukarya.
 </p>
 
+<br>
+
 The domain Eukarya is the only domain that represents multicellular, nucleated, and visible organisms. 
 Eukarya consists of organisms that have a true nucleus and structures called organelles that are surrounded by membranes.
 I.e - visible living organisms 
 
+<br>
 
 **Within the domain Eukarya there are four kingdoms:**
 
@@ -107,6 +110,7 @@ I.e - visible living organisms
 
 Because this is a mushroom classification set we will be focusing on the Fungi Kingdom.
 
+<br>
 
 That being said, the Fungi Kingdom, consists of 7 Phyla those being;
 
@@ -117,6 +121,8 @@ Microsporidia,
 Glomeromycota, 
 Ascomycota, and 
 Basidiomycota 
+
+<br>
 
 The 2 Phyla we will be focusing our research further on are the Ascomycota, and Basidiomycota Phylum (plural for Phyla) 
 
