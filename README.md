@@ -91,6 +91,7 @@ Eukarya consists of organisms that have a true nucleus and structures called org
 I.e - visible living organisms 
 
 <br>
+<br>
 
 **Within the domain Eukarya there are four kingdoms:**
 
@@ -132,15 +133,23 @@ Ascomycota, and Basidiomycota actually compose the only two Phyla in Dikarya the
 Ascomycota includes a diverse range of species, such as yeasts, molds, truffles, and morels. 
 Basidiomycota includes mushrooms, toadstools, puffballs, and bracket fungi. 
 
+<br>
+<br>
+
+
 What is the difference between these Phyla?
 
 	The basic answer is Ascomycetes and Basidiomycota use different methods of spore production and dispersal.
 
 The Basidiomycetes Pyhla produce sexual spores called basidiospores. They play significant roles as decomposers, mycorrhizal symbionts, and plant pathogens. 
 
+<br>
+
 While the Ascomycetes Phyla  produce spores within specialized structures called asci. 
 They have a wide array of ecological roles, including decomposition, plant symbiosis, and pathogens of plants and animals. Some well-known examples include Penicillium, Saccharomyces (brewer's yeast), and morel mushrooms.
 
+<br>
+<br>
 
 #### Phylum Ascomycota
 The Phylum Ascomycota contains three Subdivisions:
@@ -149,12 +158,16 @@ The Phylum Ascomycota contains three Subdivisions:
 	Saccharomycotina
 	Pezizomycotina
 
+<br>
+<br>
+
 #### Phylum Basidiomycota
 The Phylum Basidiomycota contains three Subdivisions:
 
 	Agaricomycotina
 	Pucciniomycotina
 	Ustilaginomycotina
+<br>
 
 Things will start to get quite complex if we continue going down the Living Organisms Classification System latter, an example being, The Sub-Division Agaricomycotina 
 
@@ -163,50 +176,83 @@ Things will start to get quite complex if we continue going down the Living Orga
 		Tremellomycetes,
 		Dacrymycetes, and 
 		Agaricomycetes.
+<br>
 
 Furthermore, the Class Agaricomycetes under the Sub-Division Agaricomycotina:
 
 	Includes 17 Orders, 100 Families, 1147 Genera, and 20951 Species.
 
+<br>
+<br>
+
 On another note, we have finally reached a point on the Living Organisms Classification System where we will only be including mushrooms, and have excluded any fungi that is not a typical mushroom.
+
+<br>
 
 An extensive amount of research has been conducted to determine who general we can be when classifying our mushroom image. 
 	I.e – Can we label mushrooms being poisonous or edible just based on their Family?
 
 		The answer to that is NO. 	
 
+<br>
+
 We are still in too broad of a category to be able to classify that category as edible or poisonous.
 
 	Therefore, we are going to travel down the Living Organisms Classification System latter to the Genus rank.
+
+<br>
 
 The Genus rank is in between the Family and Species ranks.
 
 	An example to make sure you are following; Among animals, for example, the species of horses and zebras both from the Genus Equus.
 	This is how we are going to classify our mushrooms as either edible or poisonous.
 
+<br>
+<br>
+
 The 11 mushroom Genus we are going to be focusing on for this mushroom image classification model are:
 
+<br>
 	Exidia
+ <br>
 	Inocybe
+ <br>
 	Agaricus
+ <br>
 	Amanita
+ <br>
 	Boletus
+ <br>
 	Cortinarius
+ <br>
 	Entoloma
+ <br>
 	Hygrocybe
+ <br>
 	Lactarius
+ <br>
 	Russula
+ <br>
 	Suillus
 
+
+<br>
+<br>
 
 #### Exidia - EDIBLE
 	The Exidia Genus of mushrooms do not have any toxic or poisonous species, we will be classifying them as edible, 
  	although it is duly noted that they do not have any culinary value, as they are not tasty due to their spongey gelatine structure.
 
+<br>
+<br>
+
 #### Inocybe - CONTAINS POISONOUS SPECIES
 	The Inocybe Genus of mushrooms have multiple toxic species that cause a wide range of nasty side effects including gastrointestinal distress, hallucinations, muscle weakness, and in severe cases, organ failure, 
  	none will cause instant death but ingestion will still cause harm. 
   	Therefore we will be classifying these as poisonous.
+
+<br>
+<br>
 
 #### Agaricus - CONTAINS POISONOUS SPECIES
 	There are many very common Agaricus species that are edible such as the portobello mushroom, but there are also species of the Agaricus that are highly poisonous, 
