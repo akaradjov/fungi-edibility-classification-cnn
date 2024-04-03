@@ -108,9 +108,10 @@ I.e - visible living organisms
 
 **Kingdom Animalia:** containing over 1 million species, that consists of multicellular organisms that must consume other organisms for energy.
 
-Because this is a mushroom classification set we will be focusing on the Fungi Kingdom.
-
 <br>
+<br>
+
+Because this is a mushroom classification set we will be focusing on the Fungi Kingdom.
 
 That being said, the Fungi Kingdom, consists of 7 Phyla those being;
 
@@ -122,6 +123,7 @@ Glomeromycota,
 Ascomycota, and 
 Basidiomycota 
 
+<br>
 <br>
 
 The 2 Phyla we will be focusing our research further on are the Ascomycota, and Basidiomycota Phylum (plural for Phyla) 
