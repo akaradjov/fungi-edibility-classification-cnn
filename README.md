@@ -1,4 +1,6 @@
-# Classifying Fungi Using Convolutional Neural Network
+<p align="center">
+	# Classifying Fungi Using Convolutional Neural Network
+</p>
 
 <p align="center">
   <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
