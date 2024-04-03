@@ -7,9 +7,12 @@
 <p align="center">
 Classifying images of different fungi specifically from the Ascomycota, and Basidiomycota Phylum under the Kingdom of Fungi, to test whether or not they are edible or poisonous.
 <br>
+<br>
 The images are derived from kaggle, they are taken by a private photographer.
 <br>
+<br>
 The data set structure was created by me using the images from kaggle with a function created in my notebook, and the finished data set contains over 7,000 data points.
+<br>
 <br>
 Using a Convolutional Neural Network model I created an application that is able to test these species to an accuracy rate of 99%.
 </p>
