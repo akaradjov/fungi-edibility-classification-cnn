@@ -1,4 +1,8 @@
 # Classifying Fungi Based on Edibility Using Convolutional Neural Network
+
+<div style="text-align:center;">
+    ![orange-mushroom](data/orange-mushroom.jpg)
+</div>
 <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
 
 
