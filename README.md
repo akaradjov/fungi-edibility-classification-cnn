@@ -1,12 +1,14 @@
-# Fungi Edibility Image Classification
-#### Classifying images of different fungi specifically from the Ascomycota, and Basidiomycota Phylum under the Kingdom of Fungi, to test whether or not they are edible or poisonous
+# Classifying Fungi Based on Edibility Using Convolutional Neural Network
+<img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
 
-## Classifying Fungi Based on Edibility
 
-![orange-mushroom](data/orange-mushroom.jpg)
-<img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="300">
+Classifying images of different fungi specifically from the Ascomycota, and Basidiomycota Phylum under the Kingdom of Fungi, to test whether or not they are edible or poisonous.
+The images are derived from kaggle, they are taken by a private photographer.
+The data set structure was created by me using the images from kaggle with a function created in my notebook, and the finished data set contains over 7,000 data points.
+Using a Convolutional Neural Network model I created an application that is able to test these species to an accuracy rate of 99%.
 
-### Overview and Disclaimer
+
+## Overview and Disclaimer
 I wanted to test out developing a mobile application or web platform that would enable a user to upload an image of a  mushroom they have found, and identify whether a it os poisonous or safe to consume. 
 This could be particularly useful for mushroom foragers, hikers, or individuals who are interested in wild mushroom hunting. 
 Although to create an application accurate enough to dance with life or death is somehting that would take more than a mere few months and one persons work, no matter how much work was put in. So for future note this application is to soley be used as an educational tool for guidance on ones journey through the woods.
@@ -15,7 +17,7 @@ This type of application would also provide valuable assistance to individuals w
 
 
 
-### Goals in Project
+## Main Goals in Project
 Our goal is to be able to build an interactive app for National Geographic that can classify an image of a mushroom that is commonly found on the west coast,  as either poisonous or edible for individuals who are not expert mycologists for educational purposes.
 
 	With the research that has been done I was able to identify which features of a mushroom will be most important when collecting data, 
@@ -30,8 +32,9 @@ They were grouped this way because the images used were only sufficient enough t
 
 
 
-### Research on Subject
-##### Classification System for Living Organisms
+## Research on Subject
+
+#### Classification System for Living Organisms
 
 ![OIP](data/OIP.jpg)
 
@@ -177,10 +180,6 @@ The 11 mushroom Genus we are going to be focusing on for this mushroom image cla
 	No species within the Suillus Genus contains any toxins or is poisonous, not all of the species have culinary value but are considered edible. 
  	Will be classifying the Suillus Genus as edible.
 
-
-### Data
-The images are derived from kaggle, they are taken by a private photographer
-The data set structure was created by me using the images from kaggle with a function created in my notebook, and the finished data set contains over 7,000 data points.
 
 ### Methods
 **First** step was to prepare the data set which was done by feature engineering with a for loop function, to label all the mushroom Genus. We started off by understanding the data which our research presented above. I was able to notice that the images were only sufficient enough to classify per Genus not per species, and would have needed a lot more images. The data set was created with a loading image function, and my preprocess function, so that all images were the same shape, and size.
