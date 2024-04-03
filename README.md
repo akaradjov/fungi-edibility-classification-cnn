@@ -4,7 +4,7 @@
     <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="300">
 </div>
 <img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555">
-
+<img src="data/orange-mushroom.jpg" alt="orange-mushroom" width="555" style="display:block; margin:auto;">
 
 Classifying images of different fungi specifically from the Ascomycota, and Basidiomycota Phylum under the Kingdom of Fungi, to test whether or not they are edible or poisonous.
 The images are derived from kaggle, they are taken by a private photographer.
